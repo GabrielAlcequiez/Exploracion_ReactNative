@@ -1,9 +1,8 @@
-import React from 'react';
 import { StyleSheet, View } from 'react-native';
 import { ScreenContainer } from '../components/ScreenContainer';
 import { YouTubePlayer } from '../components/YouTubePlayer';
 
-const VIDEO_URL = 'https://www.youtube.com/watch?v=vFW_TxKLyrE';
+const VIDEO_URL = 'https://www.youtube.com/watch?v=CW7gfrTlr0Y';
 
 export default function ExperienciaScreen() {
   return (
