@@ -2,7 +2,7 @@ import { StyleSheet, View } from 'react-native';
 import { ScreenContainer } from '../components/ScreenContainer';
 import { YouTubePlayer } from '../components/YouTubePlayer';
 
-const VIDEO_URL = 'https://www.youtube.com/watch?v=CW7gfrTlr0Y';
+const VIDEO_URL = 'https://youtu.be/PuZtnXswFcA';
 
 export default function ExperienciaScreen() {
   return (
